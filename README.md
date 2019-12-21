@@ -1,2 +1,2 @@
 # SpencerHoGD.github.io
-my github ip
+my github io
